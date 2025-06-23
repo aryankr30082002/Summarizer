@@ -1,9 +1,10 @@
-# Summarizer
-#📄 README: LLM Summarizer (Dual LLM Approach)
+# 📄 README: LLM Summarizer (Dual LLM Approach)
+
 ✨ Project Overview
+
 The LLM Summarizer is a Python-based tool that leverages two Large Language Models (LLMs) to summarize any webpage or raw text content. This dual-LLM approach ensures flexibility and robustness by allowing the user to choose between models based on use-case, cost, or performance.
 
-🚀 Features
+🚀 Features-
 ✅ Summarize content via web URL or plain text input.
 
 ✅ Switch between two LLMs (e.g., Ollama & OpenAI GPT or others).
