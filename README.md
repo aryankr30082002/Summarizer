@@ -77,7 +77,7 @@ from summarizer import summarize_text, summarize_website
 summary = summarize_text("Long text here...", model="ollama")
 print(summary)
 
-summary = summarize_website("https://example.com", model="gemini")
+summary = summarize_website("https://edwarddonner.com/", model="gemini")
 print(summary)
 🔄 LLM Selection Logic
 
