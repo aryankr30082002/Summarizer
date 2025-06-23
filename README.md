@@ -33,7 +33,7 @@ Streamlit/Jupyter (Optional) — For UI/demo purposes.
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/llm-summarizer.git
+git clone https://github.com/aryankr30082002/Summarizer/tree/main/Website_summarizer
 cd llm-summarizer
 pip install -r requirements.txt
 Set up your .env file (for OpenAI):
